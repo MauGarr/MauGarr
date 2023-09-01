@@ -6,11 +6,8 @@
 <h3 align="center">I like to travel, listen to music, play soccer and spend time with my family.</h3>
 
 <div align="center">
-  <img src="https://github.com/MauGarr/profile/blob/main/gifbaby.gif" height="350" width="60%">
+  <img src="https://github.com/MauGarr/profile/blob/main/gifbaby.gif" height="380" width="60%">
 </div>
-
-350
-55
 
 <a target="_blank" align="center">
   <img align="right" top="500" height="200" width="300" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
