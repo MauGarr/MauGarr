@@ -8,7 +8,6 @@
 <div align="center">
   <img src="https://github.com/MauGarr/profile/blob/main/gifbaby.gif"  width="70%">
 </div>
-height="350"
 
 <a target="_blank" align="center">
   <img align="right" top="500" height="200" width="300" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
