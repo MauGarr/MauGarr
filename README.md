@@ -2,25 +2,28 @@
 <!-- RAINBOW LINE TOP -->
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
-<div align="center">
-  <img src="https://github.com/MauGarr/profile/blob/main/gifbaby.gif" height="450" width="80%">
-</div>
+<h1 align="center">Hi 👋, I'm Mau García</h1>
+<h3 align="center">I like to travel, listen to music, play soccer and spend time with my family.</h3>
 
-### Hi there 👋
+<div align="center">
+  <img src="https://github.com/MauGarr/profile/blob/main/gifbaby.gif" height="350" width="55%">
+</div>
 
 <a target="_blank" align="center">
   <img align="right" top="500" height="200" width="300" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3>
+    🧑‍💻 About me
+</h3>
+
+- 🎓 I'm a Systems Engineering student at the University of San Carlos de Guatemala.
+
+- 🌱 I'am currently learning about web development.
+
+- 💬 Ask me about **any technology**.
+
+- ⚡ **Fun Facts** : 🏋🏻‍♂️ 🍏 🎶 ✈️ 🏖️
 
 <!--h1 without bottom border-->
 <div id="user-content-toc">
