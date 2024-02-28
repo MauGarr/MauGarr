@@ -46,9 +46,10 @@
   </ul>
 </div>
 <!--tech stack icons-->
+
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,java,py,html,css,vscode,linux,docker&perline=14" />
+    <img src="https://skillicons.dev/icons?i=git,github,java,py,fortran,html,css,javascript,bootstrap,tailwind,react,vite,mysql,postgresql,vscode,linux,docker&perline=14"/>
   </a>
 </p>
 
