@@ -1,6 +1,6 @@
 
 <!-- RAINBOW LINE TOP -->
-<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
+<img src="https://github.com/MauGarr/MauGarr/blob/main/line-neon.gif" width="100%">
 
 <h1 align="center">Hi 👋, I'm Mau García</h1>
 <h3 align="center">I like to travel, listen to music, play soccer and spend time with my family.</h3>
@@ -10,7 +10,7 @@
 </div>
 
 <a target="_blank" align="center">
-  <img align="right" top="500" height="200" width="300" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+  <img align="right" top="500" height="200" width="300" alt="GIF" src="https://github.com/MauGarr/MauGarr/blob/main/dev-purple.gif">
 </a>
 
 <h3>
@@ -19,7 +19,7 @@
 
 - 🎓 I'm a Systems Engineering student at the University of San Carlos de Guatemala.
 
-- 🌱 I'am currently learning about web development.
+- 🌱 I'm currently learning about web development.
 
 - 💬 Ask me about **any technology**.
 
@@ -70,9 +70,8 @@
 
 <!--- snake -->
 <div align="center">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
-       alt="snake" /></a>
+  <img  src="https://github.com/MauGarr/MauGarr/blob/main/snake.svg" alt="snake" /></a>
 </div>
 
 <!-- RAINBOW LINE BOT -->
-<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
+<img src="https://github.com/MauGarr/MauGarr/blob/main/line-neon.gif" width="100%">
