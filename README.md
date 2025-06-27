@@ -43,7 +43,7 @@
 |:--------------------------------------------------------------------------------------------------------------------------------:|
 |![Mau's Github Stats](https://github-readme-stats.vercel.app/api?username=MauGarr&show_icons=true&theme=algolia)                  | 
 |![Mau's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MauGarr&theme=algolia)                              |
-|![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MauGarr&langs_count=8&theme=algolia&layout=compact)   |
+|![Mau's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MauGarr&langs_count=6&layout=compact&theme=algolia)   |
 
 </div>
 </div>
