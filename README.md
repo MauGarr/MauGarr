@@ -73,7 +73,7 @@
 
 <div align="center">
 <p>🌐
-<a href="https://maugarr.github.io/portfolio/" target="_blank">Portfolio web</a>
+<a href="https://maugarr.github.io/portfolio/" target="_blank"><strong>Portfolio web</strong></a>
 </p>
   
 <br>
