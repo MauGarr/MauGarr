@@ -71,12 +71,18 @@
   </ul>
 </div>
 
-<!--icons and links-->
-<p align="center">
-<a href="https://www.instagram.com/mau_grr/" target="blank"><img align="center" src="https://skillicons.dev/icons?i=instagram" alt="instagram"/></a>
-<a href="https://www.linkedin.com/in/maugarr/" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="linkedin"/></a>
-<a href="https://discord.com/channels/@me" target="blank"><img align="center" src="https://skillicons.dev/icons?i=discord" alt="discord"/></a>
+<div align="center">
+<p>🌐
+<a href="https://maugarr.github.io/portfolio/" target="_blank">Portfolio web</a>
 </p>
+  
+<br>
+
+<a href="https://www.instagram.com/mau_grr/" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" alt="instagram"/></a>
+<a href="https://www.linkedin.com/in/maugarr/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" alt="linkedin"/></a>
+<a href="https://discord.com/channels/@me" target="_blank"><img src="https://skillicons.dev/icons?i=discord" alt="discord"/></a>
+
+</div>
 
 <!--- snake -->
 <div align="center">
